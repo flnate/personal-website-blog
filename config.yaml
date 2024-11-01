@@ -1,4 +1,4 @@
-baseURL: "https://flnate3.gitlab.io/personal-website-blog"
+baseURL: "https://flnate3.gitlab.io"
 languageCode: "en-us"
 title: "Moles Profile"
 theme: hugo-profile
