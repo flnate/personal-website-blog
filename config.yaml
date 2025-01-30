@@ -2,6 +2,7 @@ baseURL: "https://flnate.github.io/personal-website-blog/"
 languageCode: "en-us"
 title: "Moles Profile"
 theme: hugo-profile
+canonifyURLs: true
 
 outputs:
   home:
